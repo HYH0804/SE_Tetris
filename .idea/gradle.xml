@@ -4,11 +4,10 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SE_Tetris" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/SE_Tetris" />
           </set>
         </option>
       </GradleProjectSettings>
