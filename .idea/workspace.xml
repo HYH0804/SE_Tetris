@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7784bc4a-b3c5-46c3-b1a4-c558843a3bb8" name="Changes" comment="" />
+    <list default="true" id="7784bc4a-b3c5-46c3-b1a4-c558843a3bb8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE_Tetris/src/main/java/com/example/fxtest/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE_Tetris/src/main/java/com/example/fxtest/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE_Tetris/src/main/java/com/example/fxtest/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE_Tetris/src/main/java/com/example/fxtest/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE_Tetris/src/main/java/com/example/fxtest/asdasd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE_Tetris/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE_Tetris/src/main/java/module-info.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,11 +69,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.HelloApplication.executor": "Run",
     "Gradle.C:/Users/Bogil/Desktop/Github/team-se/SE_Tetris/SE_Tetris/build.gradle.executor": "Run",
     "Gradle.SE_Tetris [:HelloApplication.main()].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "So",
+    "git-widget-placeholder": "Merging So",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Bogil/Desktop/Github/222/SE_Tetris",
     "node.js.detected.package.eslint": "true",
@@ -100,7 +108,7 @@
       <workItem from="1710600575633" duration="1742000" />
       <workItem from="1710829553975" duration="6621000" />
       <workItem from="1711007358723" duration="696000" />
-      <workItem from="1711008074796" duration="2020000" />
+      <workItem from="1711008074796" duration="2650000" />
     </task>
     <servers />
   </component>
