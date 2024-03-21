@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.dlsc.formsfx:formsfx-core:11.6.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.dlsc.formsfx" artifactId="formsfx-core" version="11.6.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dlsc.formsfx/formsfx-core/11.6.0/dd14a71601781f316a3d5259af549c37b4b3b311/formsfx-core-11.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: org.kordamp.ikonli:ikonli-javafx:12.3.1" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.kordamp.ikonli" artifactId="ikonli-javafx" version="12.3.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kordamp.ikonli/ikonli-javafx/12.3.1/6df78c8f23f4509f88b8e05c32da64b7dc494356/ikonli-javafx-12.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
