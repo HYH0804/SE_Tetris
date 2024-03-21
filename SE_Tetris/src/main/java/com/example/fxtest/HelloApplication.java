@@ -1,6 +1,6 @@
 package com.example.fxtest;
 
-//import com.example.fxtest.database.DbOutput;
+import com.example.fxtest.database.DbOutput;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.geometry.Insets;
@@ -21,7 +21,7 @@ public class HelloApplication extends Application {
     @Override
     public void start(Stage stage) throws IOException {
         this.stage = stage;
-
+//
         FXMLLoader fxmlLoader = new FXMLLoader(HelloApplication.class.getResource("hello-view.fxml"));
         Scene scene = new Scene(fxmlLoader.load(), 320, 240);
 
